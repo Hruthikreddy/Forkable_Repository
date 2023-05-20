@@ -1,4 +1,4 @@
-# Forkable_Repository
+# Chapter-3 Forkable_Repository
 This repository is designed to help you learn how to fork a repository on GitHub and create your own personalized version.
 ## What is forking?
 Forking is a fundamental concept in Git and GitHub that allows you to create a copy of a repository under your GitHub account. This copy, known as a "fork," enables you to freely experiment and make changes without affecting the original repository.
